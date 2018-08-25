@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2018-08-25T15:32:59.110Z</time>
+  <bounds minlat="44.973377085" minlon="-93.233560423" maxlat="44.988003590" maxlon="-93.214190012"/>
+  <trk>
+    <trkseg>
+      <trkpt lat="44.973377085" lon="-93.220889081">
+        <ele>252.000000</ele>
+        <time>2014-07-05T20:10:14Z</time>
+        <speed>3.399000</speed>
+      </trkpt>
+      <trkpt lat="44.973409858" lon="-93.221146405">
+        <ele>252.000000</ele>
+        <time>2014-07-05T20:10:18Z</time>
+        <speed>5.319000</speed>
+      </trkpt>
+      <trkpt lat="44.973471214" lon="-93.221198122">
+        <ele>252.000000</ele>
+        <time>2014-07-05T20:10:19Z</time>
+        <speed>5.765000</speed>
+      </trkpt>
+      <trkpt lat="44.973512704" lon="-93.221247156">
+        <ele>252.000000</ele>
+        <time>2014-07-05T20:10:20Z</time>
+        <speed>5.791000</speed>
+      </trkpt>
+      <trkpt lat="44.973681851" lon="-93.221177754">
+        <ele>252.000000</ele>
+        <time>2014-07-05T20:10:23Z</time>
+        <speed>7.327000</speed>
+      </trkpt>
+      <trkpt lat="44.973740356" lon="-93.221140957">
+        <ele>252.000000</ele>
+        <time>2014-07-05T20:10:24Z</time>
+        <speed>7.461000</speed>
+      </trkpt>
+      <trkpt lat="44.973800287" lon="-93.221091336">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:10:25Z</time>
+        <speed>7.695000</speed>
+      </trkpt>
+      <trkpt lat="44.974039758" lon="-93.220861253">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:10:29Z</time>
+        <speed>7.810000</speed>
+      </trkpt>
+      <trkpt lat="44.974099353" lon="-93.220817751">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:10:30Z</time>
+        <speed>7.559000</speed>
+      </trkpt>
+      <trkpt lat="44.974348464" lon="-93.220618681">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:10:34Z</time>
+        <speed>7.884000</speed>
+      </trkpt>
+      <trkpt lat="44.974823215" lon="-93.220262366">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:10:42Z</time>
+        <speed>6.737000</speed>
+      </trkpt>
+      <trkpt lat="44.974875015" lon="-93.220230096">
+        <ele>251.800000</ele>
+        <time>2014-07-05T20:10:43Z</time>
+        <speed>6.334000</speed>
+      </trkpt>
+      <trkpt lat="44.974923714" lon="-93.220186258">
+        <ele>252.400000</ele>
+        <time>2014-07-05T20:10:44Z</time>
+        <speed>6.318000</speed>
+      </trkpt>
+      <trkpt lat="44.974980040" lon="-93.220151390">
+        <ele>252.800000</ele>
+        <time>2014-07-05T20:10:45Z</time>
+        <speed>6.428000</speed>
+      </trkpt>
+      <trkpt lat="44.975029828" lon="-93.220105205">
+        <ele>253.200000</ele>
+        <time>2014-07-05T20:10:46Z</time>
+        <speed>6.464000</speed>
+      </trkpt>
+      <trkpt lat="44.975081042" lon="-93.220058853">
+        <ele>253.600000</ele>
+        <time>2014-07-05T20:10:47Z</time>
+        <speed>6.498000</speed>
+      </trkpt>
+      <trkpt lat="44.975135943" lon="-93.220003533">
+        <ele>253.600000</ele>
+        <time>2014-07-05T20:10:48Z</time>
+        <speed>7.119000</speed>
+      </trkpt>
+      <trkpt lat="44.975464514" lon="-93.219535571">
+        <ele>253.600000</ele>
+        <time>2014-07-05T20:10:55Z</time>
+        <speed>7.379000</speed>
+      </trkpt>
+      <trkpt lat="44.975525450" lon="-93.219377321">
+        <ele>253.600000</ele>
+        <time>2014-07-05T20:10:57Z</time>
+        <speed>7.077000</speed>
+      </trkpt>
+      <trkpt lat="44.975596361" lon="-93.219239355">
+        <ele>253.600000</ele>
+        <time>2014-07-05T20:10:59Z</time>
+        <speed>6.669000</speed>
+      </trkpt>
+      <trkpt lat="44.975660231" lon="-93.219213622">
+        <ele>253.600000</ele>
+        <time>2014-07-05T20:11:00Z</time>
+        <speed>6.754000</speed>
+      </trkpt>
+      <trkpt lat="44.975717228" lon="-93.219205995">
+        <ele>253.600000</ele>
+        <time>2014-07-05T20:11:01Z</time>
+        <speed>6.272000</speed>
+      </trkpt>
+      <trkpt lat="44.975892578" lon="-93.219301632">
+        <ele>253.600000</ele>
+        <time>2014-07-05T20:11:04Z</time>
+        <speed>7.265000</speed>
+      </trkpt>
+      <trkpt lat="44.975953011" lon="-93.219343458">
+        <ele>253.600000</ele>
+        <time>2014-07-05T20:11:05Z</time>
+        <speed>7.454000</speed>
+      </trkpt>
+      <trkpt lat="44.976373112" lon="-93.219684015">
+        <ele>253.600000</ele>
+        <time>2014-07-05T20:11:12Z</time>
+        <speed>7.572000</speed>
+      </trkpt>
+      <trkpt lat="44.976575787" lon="-93.219924408">
+        <ele>253.600000</ele>
+        <time>2014-07-05T20:11:16Z</time>
+        <speed>7.297000</speed>
+      </trkpt>
+      <trkpt lat="44.976666060" lon="-93.220057512">
+        <ele>253.600000</ele>
+        <time>2014-07-05T20:11:18Z</time>
+        <speed>7.049000</speed>
+      </trkpt>
+      <trkpt lat="44.976892539" lon="-93.220469734">
+        <ele>253.200000</ele>
+        <time>2014-07-05T20:11:24Z</time>
+        <speed>6.710000</speed>
+      </trkpt>
+      <trkpt lat="44.976920115" lon="-93.220539723">
+        <ele>252.800000</ele>
+        <time>2014-07-05T20:11:25Z</time>
+        <speed>6.520000</speed>
+      </trkpt>
+      <trkpt lat="44.976946686" lon="-93.220612981">
+        <ele>252.400000</ele>
+        <time>2014-07-05T20:11:26Z</time>
+        <speed>6.402000</speed>
+      </trkpt>
+      <trkpt lat="44.976974095" lon="-93.220683221">
+        <ele>252.000000</ele>
+        <time>2014-07-05T20:11:27Z</time>
+        <speed>6.404000</speed>
+      </trkpt>
+      <trkpt lat="44.976998486" lon="-93.220757401">
+        <ele>251.600000</ele>
+        <time>2014-07-05T20:11:28Z</time>
+        <speed>6.429000</speed>
+      </trkpt>
+      <trkpt lat="44.977164783" lon="-93.221179765">
+        <ele>251.600000</ele>
+        <time>2014-07-05T20:11:34Z</time>
+        <speed>6.270000</speed>
+      </trkpt>
+      <trkpt lat="44.977411546" lon="-93.221812934">
+        <ele>252.000000</ele>
+        <time>2014-07-05T20:11:43Z</time>
+        <speed>6.226000</speed>
+      </trkpt>
+      <trkpt lat="44.977439793" lon="-93.221881582">
+        <ele>252.400000</ele>
+        <time>2014-07-05T20:11:44Z</time>
+        <speed>6.214000</speed>
+      </trkpt>
+      <trkpt lat="44.977468711" lon="-93.221947967">
+        <ele>253.000000</ele>
+        <time>2014-07-05T20:11:45Z</time>
+        <speed>6.182000</speed>
+      </trkpt>
+      <trkpt lat="44.977496455" lon="-93.222014603">
+        <ele>253.400000</ele>
+        <time>2014-07-05T20:11:46Z</time>
+        <speed>6.146000</speed>
+      </trkpt>
+      <trkpt lat="44.977525456" lon="-93.222078221">
+        <ele>253.800000</ele>
+        <time>2014-07-05T20:11:47Z</time>
+        <speed>6.146000</speed>
+      </trkpt>
+      <trkpt lat="44.977774818" lon="-93.222718096">
+        <ele>253.800000</ele>
+        <time>2014-07-05T20:11:56Z</time>
+        <speed>6.651000</speed>
+      </trkpt>
+      <trkpt lat="44.977994927" lon="-93.223236181">
+        <ele>253.800000</ele>
+        <time>2014-07-05T20:12:03Z</time>
+        <speed>7.143000</speed>
+      </trkpt>
+      <trkpt lat="44.978268764" lon="-93.223904806">
+        <ele>253.800000</ele>
+        <time>2014-07-05T20:12:11Z</time>
+        <speed>7.793000</speed>
+      </trkpt>
+      <trkpt lat="44.978301788" lon="-93.223990972">
+        <ele>253.800000</ele>
+        <time>2014-07-05T20:12:12Z</time>
+        <speed>7.756000</speed>
+      </trkpt>
+      <trkpt lat="44.978362306" lon="-93.224158526">
+        <ele>253.400000</ele>
+        <time>2014-07-05T20:12:14Z</time>
+        <speed>7.532000</speed>
+      </trkpt>
+      <trkpt lat="44.978393319" lon="-93.224238741">
+        <ele>253.000000</ele>
+        <time>2014-07-05T20:12:15Z</time>
+        <speed>7.346000</speed>
+      </trkpt>
+      <trkpt lat="44.978422404" lon="-93.224315854">
+        <ele>252.200000</ele>
+        <time>2014-07-05T20:12:16Z</time>
+        <speed>7.216000</speed>
+      </trkpt>
+      <trkpt lat="44.978451740" lon="-93.224393219">
+        <ele>251.600000</ele>
+        <time>2014-07-05T20:12:17Z</time>
+        <speed>7.017000</speed>
+      </trkpt>
+      <trkpt lat="44.978475126" lon="-93.224473434">
+        <ele>250.800000</ele>
+        <time>2014-07-05T20:12:18Z</time>
+        <speed>6.875000</speed>
+      </trkpt>
+      <trkpt lat="44.978495662" lon="-93.224554487">
+        <ele>250.000000</ele>
+        <time>2014-07-05T20:12:19Z</time>
+        <speed>6.896000</speed>
+      </trkpt>
+      <trkpt lat="44.978516533" lon="-93.224640402">
+        <ele>249.400000</ele>
+        <time>2014-07-05T20:12:20Z</time>
+        <speed>7.080000</speed>
+      </trkpt>
+      <trkpt lat="44.978603453" lon="-93.225139795">
+        <ele>249.400000</ele>
+        <time>2014-07-05T20:12:26Z</time>
+        <speed>6.446000</speed>
+      </trkpt>
+      <trkpt lat="44.978696995" lon="-93.225802553">
+        <ele>249.400000</ele>
+        <time>2014-07-05T20:12:34Z</time>
+        <speed>7.378000</speed>
+      </trkpt>
+      <trkpt lat="44.978709316" lon="-93.226425747">
+        <ele>249.400000</ele>
+        <time>2014-07-05T20:12:41Z</time>
+        <speed>7.144000</speed>
+      </trkpt>
+      <trkpt lat="44.978673777" lon="-93.226607886">
+        <ele>249.400000</ele>
+        <time>2014-07-05T20:12:43Z</time>
+        <speed>7.367000</speed>
+      </trkpt>
+      <trkpt lat="44.978630694" lon="-93.226786756">
+        <ele>249.400000</ele>
+        <time>2014-07-05T20:12:45Z</time>
+        <speed>7.503000</speed>
+      </trkpt>
+      <trkpt lat="44.978558610" lon="-93.227162013">
+        <ele>249.000000</ele>
+        <time>2014-07-05T20:12:49Z</time>
+        <speed>7.925000</speed>
+      </trkpt>
+      <trkpt lat="44.978549976" lon="-93.227250862">
+        <ele>248.600000</ele>
+        <time>2014-07-05T20:12:50Z</time>
+        <speed>7.719000</speed>
+      </trkpt>
+      <trkpt lat="44.978547043" lon="-93.227346918">
+        <ele>248.200000</ele>
+        <time>2014-07-05T20:12:51Z</time>
+        <speed>7.822000</speed>
+      </trkpt>
+      <trkpt lat="44.978557520" lon="-93.227434090">
+        <ele>248.400000</ele>
+        <time>2014-07-05T20:12:52Z</time>
+        <speed>7.606000</speed>
+      </trkpt>
+      <trkpt lat="44.978570763" lon="-93.227533835">
+        <ele>248.800000</ele>
+        <time>2014-07-05T20:12:53Z</time>
+        <speed>7.873000</speed>
+      </trkpt>
+      <trkpt lat="44.978586102" lon="-93.227628969">
+        <ele>249.200000</ele>
+        <time>2014-07-05T20:12:54Z</time>
+        <speed>7.691000</speed>
+      </trkpt>
+      <trkpt lat="44.978607728" lon="-93.227724858">
+        <ele>249.600000</ele>
+        <time>2014-07-05T20:12:55Z</time>
+        <speed>7.920000</speed>
+      </trkpt>
+      <trkpt lat="44.978636981" lon="-93.227819490">
+        <ele>250.200000</ele>
+        <time>2014-07-05T20:12:56Z</time>
+        <speed>8.043000</speed>
+      </trkpt>
+      <trkpt lat="44.978669502" lon="-93.227910350">
+        <ele>250.800000</ele>
+        <time>2014-07-05T20:12:57Z</time>
+        <speed>7.960000</speed>
+      </trkpt>
+      <trkpt lat="44.978704874" lon="-93.227996935">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:12:58Z</time>
+        <speed>7.944000</speed>
+      </trkpt>
+      <trkpt lat="44.978740916" lon="-93.228084190">
+        <ele>251.800000</ele>
+        <time>2014-07-05T20:12:59Z</time>
+        <speed>7.949000</speed>
+      </trkpt>
+      <trkpt lat="44.978781987" lon="-93.228164657">
+        <ele>251.800000</ele>
+        <time>2014-07-05T20:13:00Z</time>
+        <speed>7.921000</speed>
+      </trkpt>
+      <trkpt lat="44.978915427" lon="-93.228480990">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:13:04Z</time>
+        <speed>7.399000</speed>
+      </trkpt>
+      <trkpt lat="44.978948620" lon="-93.228561204">
+        <ele>251.000000</ele>
+        <time>2014-07-05T20:13:05Z</time>
+        <speed>7.369000</speed>
+      </trkpt>
+      <trkpt lat="44.978979297" lon="-93.228641419">
+        <ele>250.600000</ele>
+        <time>2014-07-05T20:13:06Z</time>
+        <speed>7.331000</speed>
+      </trkpt>
+      <trkpt lat="44.979009975" lon="-93.228720880">
+        <ele>250.200000</ele>
+        <time>2014-07-05T20:13:07Z</time>
+        <speed>7.313000</speed>
+      </trkpt>
+      <trkpt lat="44.979040988" lon="-93.228801765">
+        <ele>249.800000</ele>
+        <time>2014-07-05T20:13:08Z</time>
+        <speed>7.322000</speed>
+      </trkpt>
+      <trkpt lat="44.979269144" lon="-93.229360000">
+        <ele>249.800000</ele>
+        <time>2014-07-05T20:13:15Z</time>
+        <speed>7.030000</speed>
+      </trkpt>
+      <trkpt lat="44.979302252" lon="-93.229433677">
+        <ele>250.200000</ele>
+        <time>2014-07-05T20:13:16Z</time>
+        <speed>6.950000</speed>
+      </trkpt>
+      <trkpt lat="44.979333433" lon="-93.229509617">
+        <ele>250.600000</ele>
+        <time>2014-07-05T20:13:17Z</time>
+        <speed>6.853000</speed>
+      </trkpt>
+      <trkpt lat="44.979363272" lon="-93.229582036">
+        <ele>251.200000</ele>
+        <time>2014-07-05T20:13:18Z</time>
+        <speed>6.700000</speed>
+      </trkpt>
+      <trkpt lat="44.979393196" lon="-93.229654205">
+        <ele>251.600000</ele>
+        <time>2014-07-05T20:13:19Z</time>
+        <speed>6.618000</speed>
+      </trkpt>
+      <trkpt lat="44.979426388" lon="-93.229725702">
+        <ele>252.000000</ele>
+        <time>2014-07-05T20:13:20Z</time>
+        <speed>6.602000</speed>
+      </trkpt>
+      <trkpt lat="44.979602660" lon="-93.230149659">
+        <ele>251.600000</ele>
+        <time>2014-07-05T20:13:26Z</time>
+        <speed>6.201000</speed>
+      </trkpt>
+      <trkpt lat="44.979630404" lon="-93.230215541">
+        <ele>251.000000</ele>
+        <time>2014-07-05T20:13:27Z</time>
+        <speed>6.168000</speed>
+      </trkpt>
+      <trkpt lat="44.979656220" lon="-93.230279243">
+        <ele>250.600000</ele>
+        <time>2014-07-05T20:13:28Z</time>
+        <speed>5.963000</speed>
+      </trkpt>
+      <trkpt lat="44.979684299" lon="-93.230345293">
+        <ele>250.200000</ele>
+        <time>2014-07-05T20:13:29Z</time>
+        <speed>6.201000</speed>
+      </trkpt>
+      <trkpt lat="44.979715396" lon="-93.230422658">
+        <ele>249.800000</ele>
+        <time>2014-07-05T20:13:30Z</time>
+        <speed>6.759000</speed>
+      </trkpt>
+      <trkpt lat="44.979840203" lon="-93.230764304">
+        <ele>249.800000</ele>
+        <time>2014-07-05T20:13:34Z</time>
+        <speed>8.107000</speed>
+      </trkpt>
+      <trkpt lat="44.980041704" lon="-93.231316001">
+        <ele>250.200000</ele>
+        <time>2014-07-05T20:13:40Z</time>
+        <speed>8.208000</speed>
+      </trkpt>
+      <trkpt lat="44.980071627" lon="-93.231418260">
+        <ele>250.600000</ele>
+        <time>2014-07-05T20:13:41Z</time>
+        <speed>8.328000</speed>
+      </trkpt>
+      <trkpt lat="44.980103311" lon="-93.231517334">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:13:42Z</time>
+        <speed>8.439000</speed>
+      </trkpt>
+      <trkpt lat="44.980134743" lon="-93.231612133">
+        <ele>252.000000</ele>
+        <time>2014-07-05T20:13:43Z</time>
+        <speed>8.359000</speed>
+      </trkpt>
+      <trkpt lat="44.980163409" lon="-93.231706346">
+        <ele>252.800000</ele>
+        <time>2014-07-05T20:13:44Z</time>
+        <speed>8.365000</speed>
+      </trkpt>
+      <trkpt lat="44.980195176" lon="-93.231808354">
+        <ele>253.400000</ele>
+        <time>2014-07-05T20:13:45Z</time>
+        <speed>8.277000</speed>
+      </trkpt>
+      <trkpt lat="44.980224094" lon="-93.231899465">
+        <ele>254.200000</ele>
+        <time>2014-07-05T20:13:46Z</time>
+        <speed>8.064000</speed>
+      </trkpt>
+      <trkpt lat="44.980436743" lon="-93.232496843">
+        <ele>254.200000</ele>
+        <time>2014-07-05T20:13:53Z</time>
+        <speed>7.836000</speed>
+      </trkpt>
+      <trkpt lat="44.980568087" lon="-93.232865396">
+        <ele>253.600000</ele>
+        <time>2014-07-05T20:13:57Z</time>
+        <speed>8.040000</speed>
+      </trkpt>
+      <trkpt lat="44.980598178" lon="-93.232954914">
+        <ele>253.000000</ele>
+        <time>2014-07-05T20:13:58Z</time>
+        <speed>8.013000</speed>
+      </trkpt>
+      <trkpt lat="44.980628353" lon="-93.233046696">
+        <ele>252.400000</ele>
+        <time>2014-07-05T20:13:59Z</time>
+        <speed>7.869000</speed>
+      </trkpt>
+      <trkpt lat="44.980658025" lon="-93.233129928">
+        <ele>252.000000</ele>
+        <time>2014-07-05T20:14:00Z</time>
+        <speed>7.403000</speed>
+      </trkpt>
+      <trkpt lat="44.980688703" lon="-93.233206958">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:01Z</time>
+        <speed>7.103000</speed>
+      </trkpt>
+      <trkpt lat="44.980810995" lon="-93.233450704">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:05Z</time>
+        <speed>5.515000</speed>
+      </trkpt>
+      <trkpt lat="44.980925324" lon="-93.233560423">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:08Z</time>
+        <speed>5.132000</speed>
+      </trkpt>
+      <trkpt lat="44.980974945" lon="-93.233551957">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:09Z</time>
+        <speed>5.407000</speed>
+      </trkpt>
+      <trkpt lat="44.981126238" lon="-93.233419020">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:12Z</time>
+        <speed>6.724000</speed>
+      </trkpt>
+      <trkpt lat="44.981469812" lon="-93.233158595">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:18Z</time>
+        <speed>7.281000</speed>
+      </trkpt>
+      <trkpt lat="44.981927380" lon="-93.232745283">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:26Z</time>
+        <speed>7.695000</speed>
+      </trkpt>
+      <trkpt lat="44.982053360" lon="-93.232647215">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:28Z</time>
+        <speed>7.660000</speed>
+      </trkpt>
+      <trkpt lat="44.982339100" lon="-93.232425513">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:33Z</time>
+        <speed>7.289000</speed>
+      </trkpt>
+      <trkpt lat="44.982682841" lon="-93.232133488">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:39Z</time>
+        <speed>7.248000</speed>
+      </trkpt>
+      <trkpt lat="44.982798931" lon="-93.232035922">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:41Z</time>
+        <speed>7.538000</speed>
+      </trkpt>
+      <trkpt lat="44.982964138" lon="-93.231880103">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:44Z</time>
+        <speed>7.749000</speed>
+      </trkpt>
+      <trkpt lat="44.983209728" lon="-93.231679356">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:48Z</time>
+        <speed>7.922000</speed>
+      </trkpt>
+      <trkpt lat="44.983279884" lon="-93.231631747">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:49Z</time>
+        <speed>7.939000</speed>
+      </trkpt>
+      <trkpt lat="44.983810207" lon="-93.231275181">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:56Z</time>
+        <speed>8.823000</speed>
+      </trkpt>
+      <trkpt lat="44.983882543" lon="-93.231219609">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:14:57Z</time>
+        <speed>8.829000</speed>
+      </trkpt>
+      <trkpt lat="44.984174569" lon="-93.230988101">
+        <ele>251.000000</ele>
+        <time>2014-07-05T20:15:01Z</time>
+        <speed>9.635000</speed>
+      </trkpt>
+      <trkpt lat="44.984255789" lon="-93.230926494">
+        <ele>250.400000</ele>
+        <time>2014-07-05T20:15:02Z</time>
+        <speed>9.874000</speed>
+      </trkpt>
+      <trkpt lat="44.984330304" lon="-93.230865306">
+        <ele>250.000000</ele>
+        <time>2014-07-05T20:15:03Z</time>
+        <speed>9.742000</speed>
+      </trkpt>
+      <trkpt lat="44.984404400" lon="-93.230799005">
+        <ele>249.600000</ele>
+        <time>2014-07-05T20:15:04Z</time>
+        <speed>9.910000</speed>
+      </trkpt>
+      <trkpt lat="44.984482687" lon="-93.230724574">
+        <ele>249.200000</ele>
+        <time>2014-07-05T20:15:05Z</time>
+        <speed>9.923000</speed>
+      </trkpt>
+      <trkpt lat="44.984771193" lon="-93.230515026">
+        <ele>249.200000</ele>
+        <time>2014-07-05T20:15:09Z</time>
+        <speed>8.868000</speed>
+      </trkpt>
+      <trkpt lat="44.985106804" lon="-93.230309921">
+        <ele>249.200000</ele>
+        <time>2014-07-05T20:15:14Z</time>
+        <speed>6.820000</speed>
+      </trkpt>
+      <trkpt lat="44.985446942" lon="-93.230309167">
+        <ele>249.200000</ele>
+        <time>2014-07-05T20:15:19Z</time>
+        <speed>6.709000</speed>
+      </trkpt>
+      <trkpt lat="44.985510225" lon="-93.230311011">
+        <ele>249.600000</ele>
+        <time>2014-07-05T20:15:20Z</time>
+        <speed>6.867000</speed>
+      </trkpt>
+      <trkpt lat="44.985573760" lon="-93.230314028">
+        <ele>250.000000</ele>
+        <time>2014-07-05T20:15:21Z</time>
+        <speed>6.871000</speed>
+      </trkpt>
+      <trkpt lat="44.985637462" lon="-93.230315788">
+        <ele>250.400000</ele>
+        <time>2014-07-05T20:15:22Z</time>
+        <speed>7.108000</speed>
+      </trkpt>
+      <trkpt lat="44.985702087" lon="-93.230314615">
+        <ele>250.800000</ele>
+        <time>2014-07-05T20:15:23Z</time>
+        <speed>7.138000</speed>
+      </trkpt>
+      <trkpt lat="44.985766963" lon="-93.230317884">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:15:24Z</time>
+        <speed>7.226000</speed>
+      </trkpt>
+      <trkpt lat="44.985953041" lon="-93.230329283">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:15:27Z</time>
+        <speed>6.902000</speed>
+      </trkpt>
+      <trkpt lat="44.986339782" lon="-93.230332887">
+        <ele>251.400000</ele>
+        <time>2014-07-05T20:15:34Z</time>
+        <speed>6.024000</speed>
+      </trkpt>
+      <trkpt lat="44.986390912" lon="-93.230337917">
+        <ele>251.800000</ele>
+        <time>2014-07-05T20:15:35Z</time>
+        <speed>5.995000</speed>
+      </trkpt>
+      <trkpt lat="44.986443550" lon="-93.230340263">
+        <ele>252.200000</ele>
+        <time>2014-07-05T20:15:36Z</time>
+        <speed>5.717000</speed>
+      </trkpt>
+      <trkpt lat="44.986493003" lon="-93.230344622">
+        <ele>252.600000</ele>
+        <time>2014-07-05T20:15:37Z</time>
+        <speed>5.507000</speed>
+      </trkpt>
+      <trkpt lat="44.986541367" lon="-93.230344119">
+        <ele>253.000000</ele>
+        <time>2014-07-05T20:15:38Z</time>
+        <speed>5.609000</speed>
+      </trkpt>
+      <trkpt lat="44.986588641" lon="-93.230340599">
+        <ele>253.400000</ele>
+        <time>2014-07-05T20:15:39Z</time>
+        <speed>5.605000</speed>
+      </trkpt>
+      <trkpt lat="44.986689140" lon="-93.230339006">
+        <ele>253.400000</ele>
+        <time>2014-07-05T20:15:41Z</time>
+        <speed>5.722000</speed>
+      </trkpt>
+      <trkpt lat="44.987055261" lon="-93.230349484">
+        <ele>253.400000</ele>
+        <time>2014-07-05T20:15:48Z</time>
+        <speed>5.712000</speed>
+      </trkpt>
+      <trkpt lat="44.987351981" lon="-93.230345376">
+        <ele>253.400000</ele>
+        <time>2014-07-05T20:15:54Z</time>
+        <speed>4.852000</speed>
+      </trkpt>
+      <trkpt lat="44.987613496" lon="-93.230354513">
+        <ele>253.400000</ele>
+        <time>2014-07-05T20:16:01Z</time>
+        <speed>2.864000</speed>
+      </trkpt>
+      <trkpt lat="44.987722209" lon="-93.230310675">
+        <ele>253.400000</ele>
+        <time>2014-07-05T20:16:06Z</time>
+        <speed>2.130000</speed>
+      </trkpt>
+      <trkpt lat="44.987786498" lon="-93.230192323">
+        <ele>253.400000</ele>
+        <time>2014-07-05T20:16:10Z</time>
+        <speed>2.858000</speed>
+      </trkpt>
+      <trkpt lat="44.987811476" lon="-93.230021332">
+        <ele>253.400000</ele>
+        <time>2014-07-05T20:16:14Z</time>
+        <speed>5.199000</speed>
+      </trkpt>
+      <trkpt lat="44.987841148" lon="-93.229693516">
+        <ele>253.400000</ele>
+        <time>2014-07-05T20:16:18Z</time>
+        <speed>6.149000</speed>
+      </trkpt>
+      <trkpt lat="44.987858415" lon="-93.229451698">
+        <ele>253.800000</ele>
+        <time>2014-07-05T20:16:21Z</time>
+        <speed>6.170000</speed>
+      </trkpt>
+      <trkpt lat="44.987862019" lon="-93.229367963">
+        <ele>254.200000</ele>
+        <time>2014-07-05T20:16:22Z</time>
+        <speed>6.271000</speed>
+      </trkpt>
+      <trkpt lat="44.987863696" lon="-93.229290011">
+        <ele>254.600000</ele>
+        <time>2014-07-05T20:16:23Z</time>
+        <speed>6.057000</speed>
+      </trkpt>
+      <trkpt lat="44.987863780" lon="-93.229208623">
+        <ele>255.000000</ele>
+        <time>2014-07-05T20:16:24Z</time>
+        <speed>6.465000</speed>
+      </trkpt>
+      <trkpt lat="44.987866965" lon="-93.229122121">
+        <ele>255.400000</ele>
+        <time>2014-07-05T20:16:25Z</time>
+        <speed>6.564000</speed>
+      </trkpt>
+      <trkpt lat="44.987880962" lon="-93.228345957">
+        <ele>255.400000</ele>
+        <time>2014-07-05T20:16:34Z</time>
+        <speed>6.780000</speed>
+      </trkpt>
+      <trkpt lat="44.987882220" lon="-93.228180247">
+        <ele>255.400000</ele>
+        <time>2014-07-05T20:16:36Z</time>
+        <speed>6.695000</speed>
+      </trkpt>
+      <trkpt lat="44.987879705" lon="-93.227533499">
+        <ele>255.400000</ele>
+        <time>2014-07-05T20:16:44Z</time>
+        <speed>6.365000</speed>
+      </trkpt>
+      <trkpt lat="44.987884315" lon="-93.226711654">
+        <ele>255.400000</ele>
+        <time>2014-07-05T20:16:54Z</time>
+        <speed>6.808000</speed>
+      </trkpt>
+      <trkpt lat="44.987890266" lon="-93.225935741">
+        <ele>255.400000</ele>
+        <time>2014-07-05T20:17:03Z</time>
+        <speed>6.964000</speed>
+      </trkpt>
+      <trkpt lat="44.987893703" lon="-93.225231829">
+        <ele>255.400000</ele>
+        <time>2014-07-05T20:17:10Z</time>
+        <speed>6.711000</speed>
+      </trkpt>
+      <trkpt lat="44.987912562" lon="-93.224476033">
+        <ele>255.400000</ele>
+        <time>2014-07-05T20:17:19Z</time>
+        <speed>6.765000</speed>
+      </trkpt>
+      <trkpt lat="44.987914574" lon="-93.223854011">
+        <ele>255.400000</ele>
+        <time>2014-07-05T20:17:26Z</time>
+        <speed>6.750000</speed>
+      </trkpt>
+      <trkpt lat="44.987919184" lon="-93.223082541">
+        <ele>255.400000</ele>
+        <time>2014-07-05T20:17:35Z</time>
+        <speed>6.717000</speed>
+      </trkpt>
+      <trkpt lat="44.987909796" lon="-93.222665709">
+        <ele>255.800000</ele>
+        <time>2014-07-05T20:17:40Z</time>
+        <speed>6.257000</speed>
+      </trkpt>
+      <trkpt lat="44.987911808" lon="-93.222582728">
+        <ele>256.200000</ele>
+        <time>2014-07-05T20:17:41Z</time>
+        <speed>6.426000</speed>
+      </trkpt>
+      <trkpt lat="44.987915915" lon="-93.222499664">
+        <ele>256.800000</ele>
+        <time>2014-07-05T20:17:42Z</time>
+        <speed>6.620000</speed>
+      </trkpt>
+      <trkpt lat="44.987919352" lon="-93.222416264">
+        <ele>257.200000</ele>
+        <time>2014-07-05T20:17:43Z</time>
+        <speed>6.628000</speed>
+      </trkpt>
+      <trkpt lat="44.987921447" lon="-93.222334875">
+        <ele>257.600000</ele>
+        <time>2014-07-05T20:17:44Z</time>
+        <speed>6.492000</speed>
+      </trkpt>
+      <trkpt lat="44.987927147" lon="-93.221683853">
+        <ele>257.600000</ele>
+        <time>2014-07-05T20:17:52Z</time>
+        <speed>6.127000</speed>
+      </trkpt>
+      <trkpt lat="44.987923878" lon="-93.221605231">
+        <ele>257.600000</ele>
+        <time>2014-07-05T20:17:53Z</time>
+        <speed>6.281000</speed>
+      </trkpt>
+      <trkpt lat="44.987943240" lon="-93.221039201">
+        <ele>257.600000</ele>
+        <time>2014-07-05T20:18:00Z</time>
+        <speed>6.832000</speed>
+      </trkpt>
+      <trkpt lat="44.987912059" lon="-93.220417431">
+        <ele>257.600000</ele>
+        <time>2014-07-05T20:18:07Z</time>
+        <speed>7.108000</speed>
+      </trkpt>
+      <trkpt lat="44.987921447" lon="-93.219848719">
+        <ele>257.600000</ele>
+        <time>2014-07-05T20:18:14Z</time>
+        <speed>6.269000</speed>
+      </trkpt>
+      <trkpt lat="44.987927482" lon="-93.219152434">
+        <ele>257.600000</ele>
+        <time>2014-07-05T20:18:23Z</time>
+        <speed>5.902000</speed>
+      </trkpt>
+      <trkpt lat="44.987949359" lon="-93.218570479">
+        <ele>257.600000</ele>
+        <time>2014-07-05T20:18:31Z</time>
+        <speed>5.478000</speed>
+      </trkpt>
+      <trkpt lat="44.987969308" lon="-93.217814431">
+        <ele>257.600000</ele>
+        <time>2014-07-05T20:18:42Z</time>
+        <speed>5.978000</speed>
+      </trkpt>
+      <trkpt lat="44.987982216" lon="-93.217450992">
+        <ele>258.000000</ele>
+        <time>2014-07-05T20:18:47Z</time>
+        <speed>5.589000</speed>
+      </trkpt>
+      <trkpt lat="44.987984144" lon="-93.217382009">
+        <ele>258.400000</ele>
+        <time>2014-07-05T20:18:48Z</time>
+        <speed>5.422000</speed>
+      </trkpt>
+      <trkpt lat="44.987985988" lon="-93.217315792">
+        <ele>258.800000</ele>
+        <time>2014-07-05T20:18:49Z</time>
+        <speed>5.407000</speed>
+      </trkpt>
+      <trkpt lat="44.987988502" lon="-93.217245635">
+        <ele>259.200000</ele>
+        <time>2014-07-05T20:18:50Z</time>
+        <speed>5.702000</speed>
+      </trkpt>
+      <trkpt lat="44.987993867" lon="-93.217182519">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:18:51Z</time>
+        <speed>5.341000</speed>
+      </trkpt>
+      <trkpt lat="44.988003590" lon="-93.216759736">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:18:57Z</time>
+        <speed>5.617000</speed>
+      </trkpt>
+      <trkpt lat="44.987991771" lon="-93.216075019">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:19:06Z</time>
+        <speed>5.836000</speed>
+      </trkpt>
+      <trkpt lat="44.987997303" lon="-93.215291143">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:19:17Z</time>
+        <speed>4.619000</speed>
+      </trkpt>
+      <trkpt lat="44.987978444" lon="-93.215247976">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:19:18Z</time>
+        <speed>3.814000</speed>
+      </trkpt>
+      <trkpt lat="44.987858415" lon="-93.215224507">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:19:21Z</time>
+        <speed>4.535000</speed>
+      </trkpt>
+      <trkpt lat="44.987764203" lon="-93.215229285">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:19:23Z</time>
+        <speed>4.968000</speed>
+      </trkpt>
+      <trkpt lat="44.987529090" lon="-93.215244204">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:19:28Z</time>
+        <speed>4.877000</speed>
+      </trkpt>
+      <trkpt lat="44.987312418" lon="-93.215252502">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:19:32Z</time>
+        <speed>5.231000</speed>
+      </trkpt>
+      <trkpt lat="44.987262378" lon="-93.215255939">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:19:33Z</time>
+        <speed>5.209000</speed>
+      </trkpt>
+      <trkpt lat="44.986913104" lon="-93.215281420">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:19:40Z</time>
+        <speed>5.178000</speed>
+      </trkpt>
+      <trkpt lat="44.986532147" lon="-93.215298100">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:19:48Z</time>
+        <speed>5.308000</speed>
+      </trkpt>
+      <trkpt lat="44.986151105" lon="-93.215305728">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:19:56Z</time>
+        <speed>5.378000</speed>
+      </trkpt>
+      <trkpt lat="44.985970391" lon="-93.215305560">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:20:00Z</time>
+        <speed>4.621000</speed>
+      </trkpt>
+      <trkpt lat="44.985854470" lon="-93.215312936">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:20:03Z</time>
+        <speed>4.455000</speed>
+      </trkpt>
+      <trkpt lat="44.985628661" lon="-93.215384182">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:20:10Z</time>
+        <speed>3.313000</speed>
+      </trkpt>
+      <trkpt lat="44.985584237" lon="-93.215237918">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:20:14Z</time>
+        <speed>3.446000</speed>
+      </trkpt>
+      <trkpt lat="44.985587674" lon="-93.215192069">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:20:15Z</time>
+        <speed>3.547000</speed>
+      </trkpt>
+      <trkpt lat="44.985448618" lon="-93.214972044">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:20:21Z</time>
+        <speed>3.951000</speed>
+      </trkpt>
+      <trkpt lat="44.985424394" lon="-93.214936924">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:20:22Z</time>
+        <speed>3.919000</speed>
+      </trkpt>
+      <trkpt lat="44.985386927" lon="-93.214834078">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:20:25Z</time>
+        <speed>2.721000</speed>
+      </trkpt>
+      <trkpt lat="44.985264300" lon="-93.214636852">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:20:31Z</time>
+        <speed>3.576000</speed>
+      </trkpt>
+      <trkpt lat="44.985157514" lon="-93.214405595">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:20:37Z</time>
+        <speed>3.691000</speed>
+      </trkpt>
+      <trkpt lat="44.985132620" lon="-93.214207363">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:20:42Z</time>
+        <speed>2.226000</speed>
+      </trkpt>
+      <trkpt lat="44.985118455" lon="-93.214190012">
+        <ele>259.600000</ele>
+        <time>2014-07-05T20:20:44Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
