@@ -50,7 +50,8 @@ cnorm  = colors.Normalize(vmin=minel, vmax=maxel)
 scalar_map = cm.ScalarMappable(norm=cnorm, cmap=TealRose_3.mpl_colormap)
 
 #plot the lines
-for activity in data:
+for ix,activity in enumerate(data):
+    print(str(ix) + '/' + str(len(data)))
     if activity[-1] == 'x':
         gpx_filename = join(data_path,activity)
         gpx_file = open(gpx_filename, 'r')
@@ -69,7 +70,7 @@ for activity in data:
                         ele=point.elevation
                         
                         cvalue = scalar_map.to_rgba(ele)
-                        plt.plot([prev_lon,lon], [prev_lat,lat], color = cvalue, lw = .6, alpha = 0.7)
+                        plt.plot([prev_lon,lon], [prev_lat,lat], color = cvalue, lw = .4, alpha = 0.7)
 
                         prev_lat=lat
                         prev_lon=lon
